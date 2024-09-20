@@ -18,4 +18,4 @@ This is a simple React application to manage healthcare services. Users can add,
 ### Installation
 1. Clone the repository:
    ```bash
- assignment1-silk-nine.vercel.app
+   assignment1-silk-nine.vercel.app
